@@ -37,7 +37,7 @@ T.times [ name.P s name.C s P.times [ name.S sn ] ]
 ```
 
 
-###Sutput map(prettified):
+###Output map(prettified):
 ```
 {  
    T:100,
